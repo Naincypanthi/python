@@ -5,7 +5,7 @@ class first:
 class second(first):
     def calculation(self):
         self.c=self.a+self.b
-        print(f"{self.a}")
+        print(f"{self.c}")
 class third(first):
     def multi(self):
         self.d=self.a*self.b
