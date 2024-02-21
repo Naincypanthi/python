@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60a73fdb-ed77-459f-8add-def3f86c3ad6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disp3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disp4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/present.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
-    </list>
+    <list default="true" id="60a73fdb-ed77-459f-8add-def3f86c3ad6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,6 +189,7 @@
       <workItem from="1707670440199" duration="59000" />
       <workItem from="1707925469274" duration="743000" />
       <workItem from="1707928803693" duration="17000" />
+      <workItem from="1708535592074" duration="8000" />
     </task>
     <servers />
   </component>
